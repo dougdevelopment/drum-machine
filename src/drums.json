@@ -1,0 +1,47 @@
+[
+          
+    {"letter": "Q",
+     "key": 113,
+     "id": "q-sound",
+     "audio": "https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3"},
+   
+    {"letter": "W",
+     "key": 119,
+     "id": "w-sound",
+     "audio": "https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3"},
+   
+    {"letter": "E",
+     "key": 101,
+     "id": "e-sound",
+     "audio": "https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3"},
+   
+    {"letter": "A",
+     "key": 97,
+     "id": "a-sound",
+     "audio": "https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3"},
+   
+    {"letter": "S",
+     "key": 115,
+     "id": "s-sound",
+     "audio": "https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3"},
+   
+    {"letter": "D",
+     "key": 100,
+     "id": "d-sound",
+     "audio": "https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3"},
+   
+    {"letter": "Z",
+     "key": 122,
+     "id": "z-sound",
+     "audio": "https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3"},
+   
+    {"letter": "X",
+     "key": 120,
+     "id": "x-sound",
+     "audio": "https://s3.amazonaws.com/freecodecamp/drums/RP4_KICK_1.mp3"},
+   
+    {"letter": "C",
+     "key": 99,
+     "id": "c-sound",
+     "audio": "https://s3.amazonaws.com/freecodecamp/drums/Cev_H2.mp3"}
+    ]
